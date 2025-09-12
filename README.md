@@ -10,7 +10,7 @@
 ---
 
 ### 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=F25F92&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=debasmita30&label=Profile%20Views&color=F25F92&style=flat)
 
 </div>
 
