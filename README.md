@@ -3,7 +3,7 @@
 # 🌸 Hey there! I'm Debasmita 🌸  
 ### 🚀 Data Analyst | Storyteller | Tech Explorer  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=F25F92&center=true&vCenter=true&width=700&lines=Welcome+to+my+Data+Universe!;R+%7C+Tableau+%7C+Looker+Studio+%7C+SQL;Turning+Data+into+Insights+%26+Stories;Always+Curious+Always+Learning!" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
