@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌸 Hey there! I'm Debasmita 🌸  
-### 🚀 Data Analyst | Storyteller | Tech Explorer  
+### 🚀 Debugger | Coder | Developer 
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
