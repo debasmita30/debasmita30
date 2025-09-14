@@ -17,7 +17,7 @@
 ## 💫 About Me  
 
 🎓 Final-year B.Tech Student | Data Analytics Enthusiast  
-📊 Passionate about R, Tableau, Looker Studio, and SQL  
+📊 Proficient R, Tableau, Looker Studio, PostgreSQL , Python, Numpy, Pandas and SQL  
 🌍 Exploring how data drives decisions and impacts lives  
 💡 Love creating dashboards, visualizations & insightful reports  
 ✨ “Data is not just numbers, it’s a story waiting to be told.”  
