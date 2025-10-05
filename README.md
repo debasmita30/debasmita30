@@ -36,7 +36,7 @@
 
 ---
 
-# 🎞️ Featured Projects (Netflix Categories)
+# 🎞️ Projects 
 
 <details>
 <summary>🍿 <b>Data Science & Analytics</b></summary>
@@ -132,4 +132,144 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=footer&text=Thanks+for+visiting!+💖&fontSize=24&fontColor=white&animation=twinkling"/>
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Return Assistant</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #111827;
+    }
+    .vine-container {
+      position: relative;
+      height: 20px;
+      background: #1f2937;
+      border-radius: 9999px;
+      overflow: visible;
+      margin-bottom: 1.5rem;
+    }
+    .vine-progress {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #10b981, #22c55e);
+      border-radius: 9999px;
+      display: flex;
+      align-items: center;
+      position: relative;
+      transition: width 1s ease-in-out;
+    }
+    .leaf {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background: #22c55e;
+      border-radius: 50% 50% 0 50%;
+      transform: rotate(-45deg);
+      opacity: 0;
+    }
+    .branch {
+      position: absolute;
+      width: 2px;
+      height: 30px;
+      background: #16a34a;
+      top: -30px;
+      opacity: 0;
+    }
+  </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+  <div class="bg-gray-900 text-white p-8 rounded-2xl shadow-2xl w-full max-w-3xl border border-gray-700">
+    <h1 class="text-4xl font-bold text-center text-pink-400 mb-6 animate-bounce">🌸 AI Return Assistant 🌸</h1>
+    <div class="vine-container">
+      <div class="vine-progress" id="vineProgress"></div>
+    </div>
+
+  <div class="flex justify-center gap-4 mb-6">
+      <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" class="w-24 h-24 rounded-full shadow-lg" />
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" class="w-24 h-24 rounded-full shadow-lg" />
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" class="w-24 h-24 rounded-full shadow-lg" />
+    </div>
+
+  <p class="text-center text-lg text-gray-300 mb-6">Make returning your product fun & simple 💖</p>
+
+  <form class="space-y-6" id="returnForm">
+      <div>
+        <label class="block text-gray-400">Choose a reason for return:</label>
+        <select class="w-full p-3 rounded-lg bg-gray-800 text-white focus:ring-2 focus:ring-pink-400">
+          <option>Wrong Item Received</option>
+          <option>Damaged Product</option>
+          <option>Didn’t Like It</option>
+          <option>Other</option>
+        </select>
+      </div>
+
+   <div>
+        <label class="block text-gray-400 mb-2">Rate your experience 🌟</label>
+        <input type="range" min="1" max="5" class="w-full accent-pink-400">
+      </div>
+
+  <div class="flex items-center gap-2">
+        <input type="checkbox" id="refund" class="accent-pink-400">
+        <label for="refund">Request Refund 💵</label>
+      </div>
+
+  <div class="flex items-center gap-2">
+        <input type="checkbox" id="exchange" class="accent-pink-400">
+        <label for="exchange">Request Exchange 🔄</label>
+      </div>
+
+   <button type="submit" class="w-full bg-pink-500 hover:bg-pink-600 text-white py-3 rounded-lg font-semibold shadow-lg transition duration-300 transform hover:scale-105">Submit Return</button>
+    </form>
+
+  <div class="flex justify-center mt-8 gap-4">
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" class="w-24 h-24 rounded-full shadow-lg animate-spin" />
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" class="w-24 h-24 rounded-full shadow-lg animate-pulse" />
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById("returnForm");
+    const vine = document.getElementById("vineProgress");
+    let progress = 0;
+
+    function addLeaf(position) {
+      const leaf = document.createElement("div");
+      leaf.classList.add("leaf");
+      leaf.style.left = position + "%";
+      vine.appendChild(leaf);
+      gsap.to(leaf, {opacity:1, y:-15, rotation:gsap.utils.random(-30,30), duration:1, ease:"back.out(2)"});
+
+      // Add a small branch for creativity
+      const branch = document.createElement("div");
+      branch.classList.add("branch");
+      branch.style.left = position + "%";
+      vine.appendChild(branch);
+      gsap.to(branch, {opacity:1, duration:1, height:gsap.utils.random(20,40), ease:"power2.out"});
+    }
+
+    function growVine() {
+      if(progress < 100){
+        progress += 25;
+        vine.style.width = progress + "%";
+        addLeaf(progress);
+      }
+    }
+
+    form.addEventListener("change", growVine);
+    form.addEventListener("submit", e => {
+      e.preventDefault();
+      vine.style.width = "100%";
+      addLeaf(100);
+    });
+
+    gsap.from("form", {opacity:0, y:50, duration:1.5, ease:"bounce"});
+    gsap.from("h1", {scale:0.8, duration:1, ease:"elastic"});
+  </script>
+</body>
+</html>
 
