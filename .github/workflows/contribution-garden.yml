@@ -1,0 +1,39 @@
+name: Contribution Flower Garden
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install -g github-contribution-grid-snake
+          npm install -g @svgdotjs/svg.js
+
+      - name: Generate flower garden SVG
+        run: |
+          mkdir -p output
+          # Download your contribution grid
+          github-contribution-grid-snake --user debasmita30 --output temp/contrib.svg --dark
+          # Transform the contribution dots into flowers using Node.js script
+          node scripts/flowers.js
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/contribution-garden.svg
+          git commit -m "Update contribution flower garden"
+          git push
