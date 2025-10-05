@@ -116,7 +116,10 @@
 # 🎞️ Featured Projects
 
 ### 🍿 Data Science & Analytics
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Data Science GIF"/>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ4MmFjMGQzeGZ4eG0xMGF5eDUyaGs0djN5MmYyMHRwNnJ4cHU2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEV1qGHF20sVI3j8OT/giphy.gif" width="300"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/debasmita30/Food-Delivery-Analysis">
     <img src="https://img.shields.io/badge/Food%20Delivery%20Analysis-F25F92?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -127,7 +130,10 @@
 </p>
 
 ### 🤖 Machine Learning
-<img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="250" alt="ML GIF"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhsMHY0enU4bzExamJxcGQ2Y29jZWl2bzFicXF6bWd3ejdoNmdoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="300"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/debasmita30/ML-Project-1">
     <img src="https://img.shields.io/badge/ML%20Model%20Repo-F25F92?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -139,7 +145,7 @@
 
 ### 🌩️ Cloud & DevOps
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW42Y2JzbzY4djRwM2d3bDcycGh2MGNobmNmM3RyYWVqdGprNGcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BITy8aaTa0gFOJuMmO/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW42Y2JzbzY4djRwM2d3bDcycGh2MGNobmNmM3RyYWVqdGprNGcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BITy8aaTa0gFOJuMmO/giphy.gif" width="300"/>
 </div>
 
 <p align="center">
@@ -149,7 +155,10 @@
 </p>
 
 ### 💻 Full Stack
-<img src="https://media.giphy.com/media/l0MYyDaC1gMJSKQze/giphy.gif" width="250" alt="Full Stack GIF"/>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb293Znl6aTZ2ZnBidmhsYXUxamhjZGtzd3ZqYzhzOWl6dW9zMXI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/debasmita30/fullstack-app">
     <img src="https://img.shields.io/badge/Full%20Stack%20App-FF80AB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -157,7 +166,10 @@
 </p>
 
 ### 🧠 Generative AI / LLM
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="250" alt="AI GIF"/>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxtZjVxam00d3Fjc3piYnU3ZDU5eWFxOHpydWxsczFoemwwcmJzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KgLSUaOfyarOLOOwz2/giphy.gif" width="300"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/debasmita30/gen-ai">
     <img src="https://img.shields.io/badge/Gen%20AI%20Project-F25F92?style=for-the-badge&logo=openai&logoColor=white"/>
