@@ -12,11 +12,11 @@
 
 ---
 
-## 💫 About Me
-🔮 Final-year B.Tech Student | Currently working in Multi-Domain Tech Projects<br>
-🌍 Exploring how data drives impactful decisions<br>
-💡 Passionate about dashboards, visualizations & insights<br>
-✨ "Data is not just numbers, it's a story waiting to be told."
+### 🔮 Final-year B.Tech Student | Multi-Domain Tech Projects  
+#### 🌍 Exploring how data drives impactful decisions  
+#### 💡 Passionate about dashboards, visualizations & insights  
+#### ✨ "Data is not just numbers, it's a story waiting to be told."
+
 ---
 ## 🛠️ Tech Stack
 
@@ -175,6 +175,7 @@
 ---
 
 ## 🤝 Let’s Connect
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5Y3N0azVvY2pkNDJ6eXB6dmZobmwyeGJ1NG4yM2t0eXUzZno4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsWEi4b1TgBWIUct25/giphy.gif">
 <p align="center">
 <a href="https://www.linkedin.com/in/debasmita-chatterjee/"><img src="https://img.shields.io/badge/LinkedIn-F25F92?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dmchatterjee2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
