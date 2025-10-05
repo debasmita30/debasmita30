@@ -10,12 +10,10 @@
 ---
 
 ## 💫 About Me
-🎓 Final-year B.Tech Student | Currently working in Multi-Domain Tech Projects**
-📊 Proficient in **R, Tableau, Looker Studio, PostgreSQL, Python, Numpy, Pandas, SQL**  
-🌍 Exploring how **data drives impactful decisions**  
-💡 Passionate about **dashboards, visualizations & insights**  
-✨ “Data is not just numbers, it’s a story waiting to be told.”
-
+🔮 Final-year B.Tech Student | Currently working in Multi-Domain Tech Projects<br>
+🌍 Exploring how data drives impactful decisions<br>
+💡 Passionate about dashboards, visualizations & insights<br>
+✨ "Data is not just numbers, it's a story waiting to be told."
 ---
 ## 🛠️ Tech Stack
 
