@@ -1,8 +1,5 @@
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=header&text=🌸+Hey+there!+I'm+Debasmita+🌸&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Header"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=header&text=🌸+Hey+there!+I'm+Debasmita+🌸&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Header"/>
