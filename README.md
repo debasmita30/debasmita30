@@ -122,10 +122,10 @@
 </div>
 
 ---
-
 # 🌸 Contribution Flower Garden
 <div align="center">
-  <img src="https://raw.githubusercontent.com/debasmita30/debasmita30/main/output/contribution-garden.svg" alt="Contribution Flower Garden"/>
+  <img src="https://raw.githubusercontent.com/debasmita30/debasmita30/main/output/contribution-garden.svg" 
+       alt="Contribution Flower Garden"/>
 </div>
 
 ---
