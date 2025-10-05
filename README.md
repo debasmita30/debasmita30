@@ -36,9 +36,11 @@
 
 ---
 
-# 🎞️ Featured Projects (Netflix-Style Categories)
+# 🎞️ Featured Projects (Netflix Categories)
 
-### 🍿 Data Science & Analytics
+<details>
+<summary>🍿 <b>Data Science & Analytics</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/debasmita30/Food-Delivery-Analysis">
     <img src="https://img.shields.io/badge/Food%20Delivery%20Analysis-F25F92?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -47,10 +49,11 @@
     <img src="https://img.shields.io/badge/Social%20Media%20Sentiment-FF80AB?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   </a>
 </p>
+</details>
 
----
-
-### 🤖 Machine Learning
+<details>
+<summary>🤖 <b>Machine Learning</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/debasmita30/ML-Project-1">
     <img src="https://img.shields.io/badge/ML%20Model%20Repo-F25F92?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -59,37 +62,41 @@
     <img src="https://img.shields.io/badge/Predictive%20Analytics-FF80AB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   </a>
 </p>
+</details>
 
----
-
-### 🌩️ Cloud & DevOps
+<details>
+<summary>🌩️ <b>Cloud & DevOps</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/debasmita30/Cloud-Dashboard">
     <img src="https://img.shields.io/badge/Cloud%20Infra%20Monitoring-F25F92?style=for-the-badge&logo=aws&logoColor=white"/>
   </a>
 </p>
+</details>
 
----
-
-### 💻 Full Stack
+<details>
+<summary>💻 <b>Full Stack</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/debasmita30/fullstack-app">
     <img src="https://img.shields.io/badge/Full%20Stack%20App-FF80AB?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
+</details>
 
----
-
-### 🧠 Generative AI
+<details>
+<summary>🧠 <b>Generative AI</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/debasmita30/gen-ai">
     <img src="https://img.shields.io/badge/Gen%20AI%20Project-F25F92?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
 </p>
+</details>
 
 ---
 
-# 📊 GitHub Analytics (Netflix "Continue Watching")
+# 📊 GitHub Analytics (Continue Watching)
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debasmita30&show_icons=true&theme=radical&hide_border=false&border_color=F25F92&title_color=F25F92&icon_color=F8BBD0"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasmita30&layout=compact&theme=radical&border_color=F25F92&title_color=F25F92"/>
@@ -101,7 +108,7 @@
 
 ---
 
-# 🏆 Rewards & Achievements (Netflix Trophy Case)
+# 🏆 Rewards & Achievements (Trophy Case)
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=debasmita30&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
@@ -125,3 +132,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=footer&text=Thanks+for+visiting!+💖&fontSize=24&fontColor=white&animation=twinkling"/>
 </div>
+
