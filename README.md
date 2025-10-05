@@ -18,16 +18,74 @@
 ✨ “Data is not just numbers, it’s a story waiting to be told.”
 
 ---
-
 ## 🛠️ Tech Stack
 <p align="center">
-<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60"/></a>
-<a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60"/></a>
-<a href="https://lookerstudio.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="60"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/></a>
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Python"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="R"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="C++"/>
+  </a>
+  
+  <!-- Data & Analytics -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="NumPy"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Pandas"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Jupyter"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://seeklogo.com/images/S/streamlit-logo-9A83A0FA1B-seeklogo.com.png" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Streamlit"/>
+  </a>
+
+  <!-- Big Data & Databases -->
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Apache Spark"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="MySQL"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Kafka_logo.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Kafka"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="SQL"/>
+  </a>
+
+  <!-- Visualization & BI -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Tableau"/>
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Looker Studio"/>
+  </a>
+
+  <!-- Web & MLOps -->
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="CSS3"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="JavaScript"/>
+  </a>
+  <a href="https://ml-ops.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/MLOps_logo.png" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="MLOps"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://raw.githubusercontent.com/huggingface/logo/main/huggingface_logo.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Hugging Face"/>
+  </a>
 </p>
+
+
 
 ---
 
