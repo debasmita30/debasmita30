@@ -3,8 +3,11 @@
 </div>
 
 <div align="center">
-🌸 Hey there! I'm Debasmita 🌸 <br> 
-🚀 Debugger | Coder | Developer | Data Storyteller <br>
+  <span style="font-size: 100px; font-weight: bold; font-family: 'Trebuchet MS', serif;font-weight: bold">
+    🌸 Hey there! I'm Debasmita 🌸
+  </span>
+  <br>
+  🚀 Debugger | Coder | Developer | Data Storyteller <br>
 </div>
 
 ---
