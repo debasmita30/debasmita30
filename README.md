@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-🌸 Hey there! I'm Debasmita 🌸  
-🚀 Debugger | Coder | Developer | Data Storyteller  
+🌸 Hey there! I'm Debasmita 🌸 <br> 
+🚀 Debugger | Coder | Developer | Data Storyteller <br>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
