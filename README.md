@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=header&text=🌸+Hey+there!+I'm+Debasmita+🌸&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Header"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hzajc4ZzN5YjhnY2t1MDUxcGNxZGgyc2l3eHl6b3BteWNodHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Header"/>
 </div>
 
 <div align="center">
 🌸 Hey there! I'm Debasmita 🌸 <br> 
 🚀 Debugger | Coder | Developer | Data Storyteller <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
 ---
 
 ## 💫 About Me
-🎓 Final-year B.Tech Student | Data Analytics Enthusiast  
+🎓 Final-year B.Tech Student | Currently working in Multi-Domain Tech Projects**
 📊 Proficient in **R, Tableau, Looker Studio, PostgreSQL, Python, Numpy, Pandas, SQL**  
 🌍 Exploring how **data drives impactful decisions**  
 💡 Passionate about **dashboards, visualizations & insights**  
@@ -68,7 +67,7 @@
   <tr>
     <td align="center">
       <a href="https://www.tableau.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="60"/><br>Tableau
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" width="60"/><br>Tableau
       </a>
     </td>
     <td align="center">
