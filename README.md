@@ -8,6 +8,8 @@
   </span>
   <br>
   🚀 Debugger | Coder | Developer | Data Storyteller <br>
+  <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2CB&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Universe!;Data+Analyst+in+the+Making!;Machine+Learning+Explorer;Big+Data+and+Cloud+Enthusiast;Let's+Collaborate+and+Innovate!"/>
+<br>
 </div>
 
 ### 👀 Profile Views
