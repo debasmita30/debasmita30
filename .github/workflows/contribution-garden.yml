@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
@@ -20,20 +20,21 @@ jobs:
       - name: Install dependencies
         run: |
           npm install -g github-contribution-grid-snake
-          npm install -g @svgdotjs/svg.js
+          npm install @svgdotjs/svg.js svgdom
+
+      - name: Generate contribution grid
+        run: |
+          mkdir -p temp
+          github-contribution-grid-snake --user debasmita30 --output temp/contrib.svg --dark
 
       - name: Generate flower garden SVG
         run: |
-          mkdir -p output
-          # Download your contribution grid
-          github-contribution-grid-snake --user debasmita30 --output temp/contrib.svg --dark
-          # Transform the contribution dots into flowers using Node.js script
           node scripts/flowers.js
 
-      - name: Commit and push
+      - name: Commit & Push SVG
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add output/contribution-garden.svg
-          git commit -m "Update contribution flower garden"
+          git commit -m "Update contribution flower garden" || echo "No changes"
           git push
