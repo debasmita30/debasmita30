@@ -123,9 +123,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🌸 Contribution Flower Garden
 <div align="center">
-  <img src="https://raw.githubusercontent.com/debasmita30/debasmita30/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/debasmita30/debasmita30/main/output/contribution-garden.svg" alt="Contribution Flower Garden"/>
 </div>
 
 ---
