@@ -1,7 +1,7 @@
 <div align="center">
   <h1> 🌸 Hey there! I'm Debasmita 🌸 </h1>
-  <h3> <i> Data Analyst • ML Enthusiast • B.Tech Final Year </i> </h3>
-  🌆 From <strong>Kanpur Nagar, Uttar Pradesh, India</strong> 🌆
+  <h3> <i> Coder • Developer • Debugger </i> </h3>
+  🌆 From <strong>Asansol, West Bengal, India</strong> 🌆
 </div>
 
 <div align="center">
@@ -82,6 +82,7 @@
 </div>
 
 ### 🤖 Machine Learning
+<img src= "https://img.shields.io/badge/Predictive%20Analytics-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <div align="center">
 <a href="https://github.com/debasmita30/ML-Project-1">
   <img src="https://img.shields.io/badge/ML%20Project%20Repo-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
