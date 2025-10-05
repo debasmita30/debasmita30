@@ -4,16 +4,17 @@
 
 <div align="center">
   <span style="font-size: 100px; font-weight: bold; font-family: 'Trebuchet MS', serif;font-weight: bold">
-    🌸 Hey there! I'm Debasmita 🌸
+   <h1>🌸Hey there, I'm <span style="color:#00C2CB;">Debasmita Chatterjee🌸</span> </h1> 
   </span>
   <br>
   🚀 Debugger | Coder | Developer | Data Storyteller <br>
 </div>
 
-<!-- Animated Profile Views Counter -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=80&section=header&text=Profile%20Views%20🌸&fontSize=30&animation=twinkling&desc=debasmita30&descSize=18&descAlignY=60" alt="Profile Views"/>
+### 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-227&label=Profile%20views&color=00C2CB&style=for-the-badge" alt="Visitor Count"/>
 </div>
+
 
 ---
 
