@@ -138,7 +138,10 @@
 </p>
 
 ### 🌩️ Cloud & DevOps
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250" alt="Cloud GIF"/>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW42Y2JzbzY4djRwM2d3bDcycGh2MGNobmNmM3RyYWVqdGprNGcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BITy8aaTa0gFOJuMmO/giphy.gif" width="200"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/debasmita30/Cloud-Dashboard">
     <img src="https://img.shields.io/badge/Cloud%20Infra-F25F92?style=for-the-badge&logo=aws&logoColor=white"/>
@@ -175,7 +178,10 @@
 ---
 
 ## 🤝 Let’s Connect
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5Y3N0azVvY2pkNDJ6eXB6dmZobmwyeGJ1NG4yM2t0eXUzZno4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsWEi4b1TgBWIUct25/giphy.gif">
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5Y3N0azVvY2pkNDJ6eXB6dmZobmwyeGJ1NG4yM2t0eXUzZno4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsWEi4b1TgBWIUct25/giphy.gif" width="200"/>
+</div>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/debasmita-chatterjee/"><img src="https://img.shields.io/badge/LinkedIn-F25F92?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dmchatterjee2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
