@@ -11,7 +11,9 @@
 </div>
 
 <!-- Animated Profile Views Counter -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=80&section=header&text=Profile%20Views%20🌸&fontSize=30&animation=twinkling&desc=debasmita30&descSize=18&descAlignY=60" alt="Profile Views"/>
+<div align="center" style="margin-top:20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=80&section=header&text=Profile%20Views%20🌸&fontSize=30&animation=twinkling&desc=debasmita30&descSize=18&descAlignY=60" alt="Profile Views"/>
+</div>
 
 ---
 
