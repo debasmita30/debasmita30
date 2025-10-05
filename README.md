@@ -124,7 +124,7 @@
 ---
 # 🌸 Contribution Flower Garden
 <div align="center">
-  <img src="https://raw.githubusercontent.com/debasmita30/debasmita30/main/output/contribution-garden.svg" 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2Gh9qP0YDV77YdAFeSYGeH_d27KPu0wc_w&s" 
        alt="Contribution Flower Garden"/>
 </div>
 
