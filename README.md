@@ -19,61 +19,101 @@
 
 ---
 ## 🛠️ Tech Stack
-<p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Python"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="R"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="C++"/>
-  </a>
 
-  <!-- Data & Analytics -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Pandas"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Jupyter"/>
-  </a>
+<div align="center">
 
-  <!-- Big Data & Databases -->
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Apache Spark"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="MySQL"/>
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=white&labelColor=FFC0CB" width="120"/><br>Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.r-project.org/">
+        <img src="https://img.shields.io/badge/R-F8BBD0?style=for-the-badge&logo=r&logoColor=white&labelColor=FFC0CB" width="120"/><br>R
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cplusplus.com/">
+        <img src="https://img.shields.io/badge/C++-F8BBD0?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=FFC0CB" width="120"/><br>C++
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://numpy.org/">
+        <img src="https://img.shields.io/badge/NumPy-F8BBD0?style=for-the-badge&logo=numpy&logoColor=white&labelColor=FFC0CB" width="120"/><br>NumPy
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://img.shields.io/badge/Pandas-F8BBD0?style=for-the-badge&logo=pandas&logoColor=white&labelColor=FFC0CB" width="120"/><br>Pandas
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-F8BBD0?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FFC0CB" width="120"/><br>PostgreSQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-F8BBD0?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFC0CB" width="120"/><br>MySQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spark.apache.org/">
+        <img src="https://img.shields.io/badge/Spark-F8BBD0?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=FFC0CB" width="120"/><br>Spark
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.tableau.com/">
+        <img src="https://img.shields.io/badge/Tableau-F8BBD0?style=for-the-badge&logo=tableau&logoColor=white&labelColor=FFC0CB" width="120"/><br>Tableau
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lookerstudio.google.com/">
+        <img src="https://img.shields.io/badge/Looker_Studio-F8BBD0?style=for-the-badge&logo=google-data-studio&logoColor=white&labelColor=FFC0CB" width="120"/><br>Looker Studio
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/">
+        <img src="https://img.shields.io/badge/HuggingFace-F8BBD0?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFC0CB" width="120"/><br>Hugging Face
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.html5.org/">
+        <img src="https://img.shields.io/badge/HTML5-F8BBD0?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFC0CB" width="120"/><br>HTML5
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/">
+        <img src="https://img.shields.io/badge/CSS3-F8BBD0?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFC0CB" width="120"/><br>CSS3
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.javascript.com/">
+        <img src="https://img.shields.io/badge/JavaScript-F8BBD0?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFC0CB" width="120"/><br>JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jupyter.org/">
+        <img src="https://img.shields.io/badge/Jupyter-F8BBD0?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=FFC0CB" width="120"/><br>Jupyter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=white&labelColor=FFC0CB" width="120"/><br>GitHub
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Visualization & BI -->
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Tableau"/>
-  </a>
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Looker Studio"/>
-  </a>
-
-  <!-- Web & Others -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="JavaScript"/>
-  </a>
-
-  <!-- AI / NLP -->
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://raw.githubusercontent.com/huggingface/logo/main/huggingface_logo.svg" width="60" height="60" style="margin:10px; border-radius:50%; padding:8px;" alt="Hugging Face"/>
-  </a>
-</p>
+</div>
 
 
 
