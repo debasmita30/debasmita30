@@ -129,11 +129,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/debasmita30/Food-Delivery-Analysis">
-    <img src="https://img.shields.io/badge/Food%20Delivery%20Analysis-F25F92?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <a href="https://github.com/debasmita30/product-user-behavior-ab-testing">
   </a>
-  <a href="https://github.com/debasmita30/Social-Media-Sentiment-Dashboard">
-    <img src="https://img.shields.io/badge/Social%20Media%20Sentiment-FF80AB?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <a href="https://github.com/debasmita30/SmartStyle-Analytics-AI-Powered-Fashion-Recommendation-Insights-Platform">
   </a>
 </p>
 
@@ -143,11 +141,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/debasmita30/ML-Project-1">
-    <img src="https://img.shields.io/badge/ML%20Model%20Repo-F25F92?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <a href="https://github.com/debasmita30/AI-Agency-Automation">
   </a>
-  <a href="https://github.com/debasmita30/ML-Project-2">
-    <img src="https://img.shields.io/badge/Predictive%20Analytics-FF80AB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <a href="https://github.com/debasmita30/LLM-Confidence-Calibration-Overconfidence-Analysis">
+
   </a>
 </p>
 
@@ -157,8 +154,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/debasmita30/Cloud-Dashboard">
-    <img src="https://img.shields.io/badge/Cloud%20Infra-F25F92?style=for-the-badge&logo=aws&logoColor=white"/>
+  <a href="https://github.com/debasmita30/prod-ready-devops-microservices-platform">
+
+
+   
   </a>
 </p>
 
@@ -168,10 +167,24 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/debasmita30/fullstack-app">
-    <img src="https://img.shields.io/badge/Full%20Stack%20App-FF80AB?style=for-the-badge&logo=react&logoColor=white"/>
+  <a href="https://github.com/debasmita30/fintrack-rbac-api">
   </a>
 </p>
+
+### 💻 Backend
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb293Znl6aTZ2ZnBidmhsYXUxamhjZGtzd3ZqYzhzOWl6dW9zMXI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/debasmita30/AI-Agency-Automation">
+
+<p align="center">
+  <a href="https://github.com/debasmita30/Enterprise-AI-Governance-Risk-Intelligence-Platform">
+  </a>
+</p>
+
+
 
 ### 🧠 Generative AI / LLM
 <div align="center">
@@ -179,8 +192,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/debasmita30/gen-ai">
-    <img src="https://img.shields.io/badge/Gen%20AI%20Project-F25F92?style=for-the-badge&logo=openai&logoColor=white"/>
+  <a href="https://github.com/debasmita30/LLM-Confidence-Calibration-Overconfidence-Analysis">
   </a>
 </p>
 
