@@ -7,7 +7,7 @@
 
 **AI/ML Engineer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Data Engineer**
 
-Final-year B.Tech student building production-grade systems at the intersection of generative AI, backend infrastructure, and data engineering. I work across the full ML stack — from LLM evaluation and RLHF pipelines to REST APIs, microservices, and analytics platforms. Currently a **GirlScript Summer of Code 2026 contributor**, actively working on open-source AI and backend projects.
+Final-year B.Tech student focused on building production-grade systems across generative AI, backend infrastructure, and data engineering. Experienced in developing LLM evaluation workflows, RLHF-oriented annotation pipelines, REST APIs, microservices, and analytics platforms. Worked as an AI Trainer at Outlier AI, evaluating and ranking large language model outputs across reasoning, multilingual, and domain-specific tasks to support model alignment and response quality improvement. Currently contributing to open-source AI and backend projects through GirlScript Summer of Code, with strong interests in AI systems engineering, scalable backend architectures, and applied machine learning infrastructure.
 
 [![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=flat-square&logo=github)](https://gssoc.girlscript.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasmita-chatterjee/)
