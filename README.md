@@ -1,225 +1,148 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hzajc4ZzN5YjhnY2t1MDUxcGNxZGgyc2l3eHl6b3BteWNodHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Header"/>
 </div>
-
 <div align="center">
-  <span style="font-size: 100px; font-weight: bold; font-family: 'Trebuchet MS', serif;font-weight: bold">
-   <h1>🌸Hey there, I'm <span style="color:#00C2CB;">Debasmita Chatterjee🌸</span> </h1> 
-  </span>
-  <br>
-  🚀 Debugger | Coder | Developer | Data Storyteller <br>
-  <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2CB&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Universe!;Data+Analyst+in+the+Making!;Machine+Learning+Explorer;Big+Data+and+Cloud+Enthusiast;Let's+Collaborate+and+Innovate!"/>
-<br>
-</div>
 
-### 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-227&label=Profile%20views&color=00C2CB&style=for-the-badge" alt="Visitor Count"/>
-</div>
+# Debasmita Chatterjee
 
+**AI/ML Engineer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Data Engineer**
 
----
+Final-year B.Tech student building production-grade systems at the intersection of generative AI, backend infrastructure, and data engineering. I work across the full ML stack — from LLM evaluation and RLHF pipelines to REST APIs, microservices, and analytics platforms. Currently a **GirlScript Summer of Code 2026 contributor**, actively working on open-source AI and backend projects.
 
-### 🔮 Final-year B.Tech Student | Multi-Domain Tech Projects  
-#### 🌍 Exploring how data drives impactful decisions  
-#### 💡 Passionate about dashboards, visualizations & insights  
-#### ✨ "Data is not just numbers, it's a story waiting to be told."
+[![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=flat-square&logo=github)](https://gssoc.girlscript.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasmita-chatterjee/)
+[![Gmail](https://img.shields.io/badge/Email-dmchatterjee2016%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dmchatterjee2016@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/debasmita30?style=flat-square&label=Followers)](https://github.com/debasmita30)
 
----
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.r-project.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60"/><br>R
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cplusplus.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/><br>C++
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://numpy.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60"/><br>NumPy
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/><br>Pandas
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spark.apache.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="60"/><br>Spark
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.tableau.com/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDA8o-B1aL6Mxg8qvIBfVdFj7g6HLpEEWZ4g&s" width="60"/><br>Tableau
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lookerstudio.google.com/">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="60"/><br>Looker Studio
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://huggingface.co/">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60"/><br>Hugging Face
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.html5.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/><br>HTML5
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/><br>CSS3
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.javascript.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jupyter.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/><br>Jupyter
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/><br>GitHub
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-# 🎞️ Featured Projects
-
-### 🍿 Data Science & Analytics
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ4MmFjMGQzeGZ4eG0xMGF5eDUyaGs0djN5MmYyMHRwNnJ4cHU2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEV1qGHF20sVI3j8OT/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/product-user-behavior-ab-testing">
-  </a>
-  <a href="https://github.com/debasmita30/SmartStyle-Analytics-AI-Powered-Fashion-Recommendation-Insights-Platform">
-  </a>
-</p>
-
-### 🤖 Machine Learning
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhsMHY0enU4bzExamJxcGQ2Y29jZWl2bzFicXF6bWd3ejdoNmdoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/AI-Agency-Automation">
-  </a>
-  <a href="https://github.com/debasmita30/LLM-Confidence-Calibration-Overconfidence-Analysis">
-
-  </a>
-</p>
-
-### 🌩️ Cloud & DevOps
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW42Y2JzbzY4djRwM2d3bDcycGh2MGNobmNmM3RyYWVqdGprNGcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BITy8aaTa0gFOJuMmO/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/prod-ready-devops-microservices-platform">
-
-
-   
-  </a>
-</p>
-
-### 💻 Full Stack
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb293Znl6aTZ2ZnBidmhsYXUxamhjZGtzd3ZqYzhzOWl6dW9zMXI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/fintrack-rbac-api">
-  </a>
-</p>
-
-### 💻 Backend
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb293Znl6aTZ2ZnBidmhsYXUxamhjZGtzd3ZqYzhzOWl6dW9zMXI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/AI-Agency-Automation">
-
-<p align="center">
-  <a href="https://github.com/debasmita30/Enterprise-AI-Governance-Risk-Intelligence-Platform">
-  </a>
-</p>
-
-
-
-### 🧠 Generative AI / LLM
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxtZjVxam00d3Fjc3piYnU3ZDU5eWFxOHpydWxsczFoemwwcmJzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KgLSUaOfyarOLOOwz2/giphy.gif" width="300"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/debasmita30/LLM-Confidence-Calibration-Overconfidence-Analysis">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debasmita30&show_icons=true&theme=radical&hide_border=false&border_color=F25F92&title_color=F25F92&icon_color=F8BBD0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasmita30&layout=compact&theme=radical&border_color=F25F92&title_color=F25F92"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasmita30&theme=radical&border=F25F92&ring=F25F92&fire=F8BBD0&currStreakLabel=F25F92"/>
-<img src="https://github-profile-trophy.vercel.app/?username=debasmita30&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debasmita30&theme=react-dark&bg_color=0D1117&color=F25F92&line=F8BBD0&point=FF80AB&area=true&hide_border=true"/>
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## About
+
+- 🎓 Final-year B.Tech — specializing in AI, ML, and distributed systems
+- 🔬 Focused on **LLM evaluation**, **AI governance**, and **scalable backend engineering**
+- 🌱 **GirlScript Summer of Code (GSSoC) 2026** — Open-Source Contributor
+- 🔧 Building systems that are production-aware, not just assignment-ready
+- 💬 Ask me about: LLM calibration · FastAPI · RBAC systems · microservices · data pipelines
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python · SQL · JavaScript · C++ · R |
+| **AI / ML** | PyTorch · Hugging Face Transformers · LangChain · LLM evaluation · RLHF · confidence calibration |
+| **Backend** | FastAPI · Flask · Node.js · REST API design · JWT auth · RBAC |
+| **Data Engineering** | Apache Spark · Pandas · NumPy · PostgreSQL · MySQL · ETL pipelines |
+| **DevOps / Infra** | Docker · Kubernetes · GitHub Actions · CI/CD · microservices |
+| **Visualization** | Tableau · Looker Studio · Plotly |
+
+---
+
+## Featured Projects
+
+### [Enterprise AI Governance & Risk Intelligence Platform](https://github.com/debasmita30/Enterprise-AI-Governance-Risk-Intelligence-Platform)
+Governance framework for auditing, monitoring, and enforcing policies across deployed AI systems. Implements a risk scoring engine, policy enforcement hooks, configurable risk thresholds, and persistent audit trails designed for enterprise compliance workflows.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `RBAC` `Audit Logging`
+
+> **Architecture:** Policy engine → risk scoring service → audit log store, decoupled via async processing. Stateless service design for horizontal scaling; policy versioning with full audit trail persistence.
+
+---
+
+### [LLM Confidence Calibration & Overconfidence Analysis](https://github.com/debasmita30/LLM-Confidence-Calibration-Overconfidence-Analysis)
+Empirical evaluation framework for measuring calibration error in large language models. Implements Expected Calibration Error (ECE), reliability diagrams, and systematic overconfidence detection across multiple model families via a unified inference interface.
+
+`Python` `PyTorch` `Hugging Face` `Matplotlib` `Model Evaluation`
+
+> **Architecture:** Evaluation harness → model inference layer → calibration metrics pipeline → visual reporting. Reproducible benchmark suite with statistical rigor. Directly applicable to RLHF and production trust scoring workflows.
+
+---
+
+### [AI Agency Automation](https://github.com/debasmita30/AI-Agency-Automation)
+Multi-agent orchestration system for complex workflow automation. Implements a planner agent, specialist sub-agents with tool use, memory management, and task decomposition, with retry/fallback logic and observability hooks for agent execution tracing.
+
+`Python` `LangChain` `OpenAI API` `FastAPI` `Multi-Agent Systems`
+
+> **Architecture:** Planner → specialist sub-agents → tool registry → result aggregator. Idempotent task execution, structured tool schemas, error isolation between agents.
+
+---
+
+### [Production-Ready DevOps Microservices Platform](https://github.com/debasmita30/prod-ready-devops-microservices-platform)
+Container-native microservices platform with a full CI/CD pipeline, service-to-service communication, and observability instrumentation. Supports zero-downtime rolling deployments and environment-specific configuration management.
+
+`Docker` `Kubernetes` `GitHub Actions` `NGINX` `CI/CD`
+
+> **Architecture:** API Gateway → independently deployable services → shared message bus. Centralized logging, health checks, horizontal scaling per service, secrets management via environment config.
+
+---
+
+### [FinTrack RBAC API](https://github.com/debasmita30/fintrack-rbac-api)
+Financial data management backend with fine-grained role-based access control. Implements resource-level permissions, JWT authentication with token refresh flows, and transaction-safe audit logging for multi-tenant financial workflows.
+
+`Python` `FastAPI` `PostgreSQL` `JWT` `RBAC` `Security`
+
+> **Architecture:** Auth service → permission middleware → resource handlers → PostgreSQL. Principle of least privilege enforced at handler layer, SQL injection prevention, rate limiting.
+
+---
+
+### [SmartStyle Analytics — AI Fashion Recommendation Platform](https://github.com/debasmita30/SmartStyle-Analytics-AI-Powered-Fashion-Recommendation-Insights-Platform)
+End-to-end recommendation engine combining collaborative filtering and content-based models, with behavioral analytics dashboards and A/B test scaffolding.
+
+`Python` `Scikit-learn` `Pandas` `PostgreSQL` `Tableau`
+
+> **Architecture:** Ingestion pipeline → feature store → recommendation engine → analytics API → dashboard layer. Model versioning, offline evaluation (precision@k, recall@k), feature drift detection, decoupled serving from training.
+
+---
+
+## Open Source — GSSoC 2026
+
+Currently contributing to open-source projects as part of **GirlScript Summer of Code 2026**. Contributions span AI tooling, backend APIs, and documentation improvements.
+
+[![GSSoC Contributor](https://img.shields.io/badge/GirlScript_Summer_of_Code_2026-Active_Contributor-FF6600?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech)
+
+---
+
+## GitHub Activity
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5Y3N0azVvY2pkNDJ6eXB6dmZobmwyeGJ1NG4yM2t0eXUzZno4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsWEi4b1TgBWIUct25/giphy.gif" width="200"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debasmita30&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&include_all_commits=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasmita30&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debasmita30&theme=github-dark-blue&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debasmita30&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=debasmita30&theme=algolia&no-frame=true&margin-w=10&column=7"/>
+
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/debasmita-chatterjee/"><img src="https://img.shields.io/badge/LinkedIn-F25F92?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dmchatterjee2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://github.com/debasmita30"><img src="https://img.shields.io/badge/GitHub-FF80AB?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+---
+
+## Currently Working On
+
+- 📐 LLM evaluation tooling — calibration, hallucination detection, output consistency benchmarks
+- ⚙️ Scalable data pipelines with Apache Spark for large-scale analytics
+- 🛡️ AI governance frameworks for responsible deployment in production
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F25F92&height=120&section=footer&text=Thanks+for+visiting!+💖&fontSize=24&fontColor=white&animation=twinkling"/>
+
+*Open to internship and new grad roles in AI/ML engineering, backend engineering, and data engineering.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasmita-chatterjee/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dmchatterjee2016@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/debasmita30)
+
 </div>
+
