@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hzajc4ZzN5YjhnY2t1MDUxcGNxZGgyc2l3eHl6b3BteWNodHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Header"/>
+</div>
+
+<div align="center">
 
 # Debasmita Chatterjee
 
