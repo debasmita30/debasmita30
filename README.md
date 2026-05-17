@@ -3,16 +3,19 @@
 </div>
 <div align="center">
 
+<div align="center">
+
 # Debasmita Chatterjee
 
 **AI/ML Engineer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Data Engineer**
 
-Final-year B.Tech student focused on building production-grade systems across generative AI, backend infrastructure, and data engineering. Experienced in developing LLM evaluation workflows, RLHF-oriented annotation pipelines, REST APIs, microservices, and analytics platforms. Worked as an AI Trainer at Outlier AI, evaluating and ranking large language model outputs across reasoning, multilingual, and domain-specific tasks to support model alignment and response quality improvement. Currently contributing to open-source AI and backend projects through GirlScript Summer of Code, with strong interests in AI systems engineering, scalable backend architectures, and applied machine learning infrastructure.
+Final-year B.Tech student building production-grade systems at the intersection of generative AI, backend infrastructure, and data engineering. I work across the full ML stack — from LLM evaluation and RLHF pipelines to REST APIs, microservices, and analytics platforms. Currently a **GirlScript Summer of Code 2026 contributor**, actively working on open-source AI and backend projects.
 
-[![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=flat-square&logo=github)](https://gssoc.girlscript.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasmita-chatterjee/)
-[![Gmail](https://img.shields.io/badge/Email-dmchatterjee2016%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dmchatterjee2016@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/debasmita30?style=flat-square&label=Followers)](https://github.com/debasmita30)
+[![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-FF6600?style=flat-square&logo=github&logoColor=white)](https://gssoc.girlscript.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasmita-chatterjee/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dmchatterjee2016@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/debasmita30?style=flat-square&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/debasmita30)
+[![Profile Views](https://komarev.com/ghpvc/?username=debasmita30&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/debasmita30)
 
 </div>
 
@@ -28,16 +31,50 @@ Final-year B.Tech student focused on building production-grade systems across ge
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python · SQL · JavaScript · C++ · R |
-| **AI / ML** | PyTorch · Hugging Face Transformers · LangChain · LLM evaluation · RLHF · confidence calibration |
-| **Backend** | FastAPI · Flask · Node.js · REST API design · JWT auth · RBAC |
-| **Data Engineering** | Apache Spark · Pandas · NumPy · PostgreSQL · MySQL · ETL pipelines |
-| **DevOps / Infra** | Docker · Kubernetes · GitHub Actions · CI/CD · microservices |
-| **Visualization** | Tableau · Looker Studio · Plotly |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Big Data & Cloud
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Tools & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -101,7 +138,7 @@ End-to-end recommendation engine combining collaborative filtering and content-b
 
 Currently contributing to open-source projects as part of **GirlScript Summer of Code 2026**. Contributions span AI tooling, backend APIs, and documentation improvements.
 
-[![GSSoC Contributor](https://img.shields.io/badge/GirlScript_Summer_of_Code_2026-Active_Contributor-FF6600?style=for-the-badge&logo=github)](https://gssoc.girlscript.tech)
+[![GSSoC Contributor](https://img.shields.io/badge/GirlScript_Summer_of_Code_2026-Active_Contributor-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech)
 
 ---
 
@@ -145,4 +182,5 @@ Currently contributing to open-source projects as part of **GirlScript Summer of
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/debasmita30)
 
 </div>
+
 
